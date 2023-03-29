@@ -33,7 +33,7 @@ def method4(...)
 end
 
 
-method4(1,2,3,a:1,b:2) { puts "Hello method 4" }
+method4(1,2,3,a:1,b:2) { puts "Hello method 4" }  # => [[1,2,3],{:a => 1,:b => 2}, #<Proc:...>
 
 
 
