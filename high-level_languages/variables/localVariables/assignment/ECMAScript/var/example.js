@@ -10,11 +10,3 @@ var $VAR_9$ = 'value9'
 var __VAR_10__ = 'value10'
 
 console.dir({var1, _var2, $var3, Var4, VAR5, v_a_r_6, v$a$r7, VaR8, $VAR_9$, __VAR_10__})
-
-
-
-
-
-
-
-
